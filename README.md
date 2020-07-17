@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Stay hungry,Stay foolish!
+- 📫 http://www.dagwan.com/
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tagwan)](https://github.com/tagwan/github-readme-stats)
