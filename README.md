@@ -23,8 +23,7 @@ Hi there, I'm **Espresso**
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently ...
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🌱 I’m currently learning [Godot](https://github.com/godotengine/godot); 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via monokai@qq.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/) to get more info.
