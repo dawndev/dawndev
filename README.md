@@ -6,6 +6,9 @@
 <a href="https://www.google.com/">
   <img align="left" alt="Espresso's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" />
 </a>
+<a href="https://www.zhihu.com/">
+  <img align="left" alt="Espresso's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+</a>
 
 <br />
 <br />
