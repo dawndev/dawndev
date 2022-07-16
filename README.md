@@ -1,4 +1,4 @@
-### Hey 👋, I'm Espresso
+### Hey 👋, I'm Espresso🙋‍♂️
 
 <a href="https://www.leetcode.com/">
   <img align="left" alt="Espresso's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -13,12 +13,15 @@
 <br />
 <br />
 
-Hi there, I'm **Espresso**
+🎍 Welcome to my hub 👨‍💻
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🤔 I’m currently ...
+- 🤔 Game server developer.
+- 👨‍💻 Mostly working on ❤️Java ❤️Kotlin!
+- 🌐 Little bit exploring Web development too.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via monokai@qq.com to reach me.
+- Loves 🎵 and 🎹.
