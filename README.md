@@ -22,7 +22,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🤔 Game server developer.
+- 🤔 Game developer.
 - 👨‍💻 Mostly working on ❤️Java ❤️Kotlin!
 - 🌐 Little bit exploring Web development too.
 - 💬 Ask me about anything, I am happy to help;
