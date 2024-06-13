@@ -26,5 +26,5 @@
 - 👨‍💻 Mostly working on ❤️Java ❤️Kotlin!
 - 🌐 Little bit exploring Web development too.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via monokai@qq.com to reach me.
+- 📫 Please email via bezy@foxmail.com to reach me.
 - Loves 🎵 and 🎹.
