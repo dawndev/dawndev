@@ -22,7 +22,7 @@
 
 **Talking about Personal Stuffs:**
 - 🤔 Game Developer - Passionate about creating immersive and engaging gaming experiences.
-- 👨‍💻 Mostly Working on - 📝 I specialize in server-side development using Java ❤️ and Kotlin ❤️, Golang ❤️, crafting high-performance and maintainable code. I also have a deep understanding of C# and Unity, allowing me to work seamlessly on both the client and server sides.
+- 👨‍💻 Mostly Working on - 📝 I specialize in server-side development using Java ❤️ and Kotlin ❤️, Golang ❤️, crafting high-performance and maintainable code.
 - 🌐 Exploring Web Development - While my primary focus is on game development, I enjoy dabbling in web technologies to expand my skill set and create interactive web applications.
 - 💬 Ask Me About Anything - I'm always happy to share my knowledge and insights. Whether it's about game design, programming languages, or the latest tech trends, feel free to reach out!
 - 📫 Contact Me - The best way to get in touch is via email at bezy@foxmail.com. I respond promptly and am open to collaborations, questions, and just general discussions.
